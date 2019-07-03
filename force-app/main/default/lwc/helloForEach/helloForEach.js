@@ -9,7 +9,7 @@ export default class HelloForEach extends LightningElement {
         },
         {
             Id: 2,
-            Name: 'Michael Jones',
+            Name: 'Michael Jones 3rd Edit',
             Title: 'VP of Sales',
         },
         {
